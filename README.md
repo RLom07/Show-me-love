@@ -383,4 +383,4 @@ Resultaat: druk je op de FLASH knop van node 2, dan gaat het blauwe ledje op nod
 * Adafruit IO Arduino library en de voorbeelden 06, 20 en 21: https://github.com/adafruit/Adafruit_IO_Arduino
 * Adafruit NeoPixel library: https://github.com/adafruit/Adafruit_NeoPixel
 * Random Nerd Tutorials, ESP8266 Pinout Reference (FLASH knop op D3 en ingebouwde led): https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
-* Claude (Anthropic), hulp met troubleshooting
+* Claude (Anthropic), hulp met troubleshooting en code
